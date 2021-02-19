@@ -1,6 +1,6 @@
 # C = Castillo, N = Caballo, K = king, Q = Queen, P = Peon, B = Alfil
 # B = black, W = white
-
+#xd
 class chessboard:
     
     def __init__(self):
