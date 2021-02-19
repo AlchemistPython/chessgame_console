@@ -1,6 +1,6 @@
 # C = Castillo, N = Caballo, K = king, Q = Queen, P = Peon, B = Alfil
 # B = black, W = white
-#xd
+# otra prueba xd
 class chessboard:
     
     def __init__(self):
